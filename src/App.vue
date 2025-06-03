@@ -31,7 +31,7 @@ export default {
         
         
             <window title="User Data">
-                <userWindowBody name="pyak nikita aleksandrovich" age="21" sex="male" nationality="asian" :is_edit="true" />
+                <userWindowBody name="jhon doe" age="18" sex="male" nationality="american" :is_edit="true" />
             </window>
             
             <window title="User skills" >
